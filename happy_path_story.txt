@@ -1,0 +1,13 @@
+Faster Skill for Alexa by Sahil Vashishtha
+Happy Path Story
+
+USER - Alexa, faster.
+ALEXA – Playing the last song on Amazon music at 1.5x speed
+USER – Alexa, play the last song faster.
+ALEXA – Playing the last song on Amazon music at 1.5x speed
+USER – Alexa, play the last song at a faster speed.
+ALEXA – Playing the last song on Amazon music at 1.5x speed
+USER – Alexa, play song “this and that” faster
+ALEXA – Playing the song “this and that” on Amazon music at 1.5x speed
+USER – Alexa, can you play that faster
+ALEXA – Playing the last song on Amazon music at 1.5x speed
